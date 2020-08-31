@@ -48,6 +48,7 @@ h1 {
 
 .top-cards {
     margin-top: -50px;
+    margin-bottom: 2em;
 }
 
 /* Cards */
@@ -134,7 +135,11 @@ h1 {
 
 /* Overview */
 .overview{
-    margin-bottom: 500px;
+    padding-bottom: 2em;
+}
+
+h2 {
+    color: var(--gray);
 }
 
 .card-small {
